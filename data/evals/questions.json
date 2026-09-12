@@ -1,0 +1,232 @@
+[
+    {
+      "question": "In what forms can manufacturers provide electronic product user manuals?",
+      "expected_document": "guidance_acceptable_media_for_electronic_product_user_manuals.pdf",
+      "expected_pages": [3, 4]
+    },
+    {
+      "question": "What must a manufacturer do if a purchaser cannot access an electronic user manual?",
+      "expected_document": "guidance_acceptable_media_for_electronic_product_user_manuals.pdf",
+      "expected_pages": [4]
+    },
+  
+    {
+      "question": "What factors should be considered when designing a clinical performance study for a CADe device?",
+      "expected_document": "clinical_performance_assessment_considerations_for_computer_assisted_detection_devices_applied_to_radiology_images_and_radiology_device_data_premarket_approval_pma_and_premarket_notification_510_k_submissions.pdf",
+      "expected_pages": [8, 9]
+    },
+    {
+      "question": "Which performance metrics does FDA recommend for evaluating clinical effectiveness of CADe devices?",
+      "expected_document": "clinical_performance_assessment_considerations_for_computer_assisted_detection_devices_applied_to_radiology_images_and_radiology_device_data_premarket_approval_pma_and_premarket_notification_510_k_submissions.pdf",
+      "expected_pages": [10, 11]
+    },
+  
+    {
+      "question": "What information should a 510(k) submission contain about the design and function of a CADe algorithm?",
+      "expected_document": "computer_assisted_detection_devices_applied_to_radiology_images_and_radiology_device_data_premarket_notification_510_k_submissions.pdf",
+      "expected_pages": [11, 12]
+    },
+    {
+      "question": "What information should manufacturers provide about CADe models, classifiers, and algorithm training?",
+      "expected_document": "computer_assisted_detection_devices_applied_to_radiology_images_and_radiology_device_data_premarket_notification_510_k_submissions.pdf",
+      "expected_pages": [12, 13]
+    },
+  
+    {
+      "question": "What major areas should manufacturers consider when designing RF wireless medical devices?",
+      "expected_document": "radio_frequency_wireless_technology_in_medical_devices.pdf",
+      "expected_pages": [4, 5]
+    },
+    {
+      "question": "What security protections does FDA recommend for wireless medical device communications?",
+      "expected_document": "radio_frequency_wireless_technology_in_medical_devices.pdf",
+      "expected_pages": [10, 11]
+    },
+  
+    {
+      "question": "How does FDA define a critical task in human factors engineering?",
+      "expected_document": "applying_human_factors_and_usability_engineering_to_medical_devices.pdf",
+      "expected_pages": [7]
+    },
+    {
+      "question": "What three steps are essential for addressing use-related hazards through human factors engineering?",
+      "expected_document": "applying_human_factors_and_usability_engineering_to_medical_devices.pdf",
+      "expected_pages": [10, 11]
+    },
+  
+    {
+      "question": "What is the purpose of FDA's postmarket cybersecurity guidance for medical devices?",
+      "expected_document": "postmarket_management_of_cybersecurity_in_medical_devices.pdf",
+      "expected_pages": [5, 6]
+    },
+    {
+      "question": "How does FDA define controlled risk and cybersecurity routine updates and patches?",
+      "expected_document": "postmarket_management_of_cybersecurity_in_medical_devices.pdf",
+      "expected_pages": [10, 11]
+    },
+  
+    {
+      "question": "How does FDA describe interoperability between medical devices and other systems?",
+      "expected_document": "design_considerations_and_pre_market_submission_recommendations_for_interoperable_medical_devices.pdf",
+      "expected_pages": [5, 6]
+    },
+    {
+      "question": "What risks should manufacturers consider when designing electronic interfaces for interoperable medical devices?",
+      "expected_document": "design_considerations_and_pre_market_submission_recommendations_for_interoperable_medical_devices.pdf",
+      "expected_pages": [11, 12]
+    },
+  
+    {
+      "question": "What regulatory criteria can make a software modification require a new 510(k)?",
+      "expected_document": "deciding_when_to_submit_a_510_k_for_a_software_change_to_an_existing_device.pdf",
+      "expected_pages": [6, 7]
+    },
+    {
+      "question": "What should manufacturers consider during the initial risk-based assessment of a software change?",
+      "expected_document": "deciding_when_to_submit_a_510_k_for_a_software_change_to_an_existing_device.pdf",
+      "expected_pages": [10, 11]
+    },
+  
+    {
+      "question": "How does FDA define an accessory and a parent device?",
+      "expected_document": "medical_device_accessories_describing_accessories_and_classification_pathways.pdf",
+      "expected_pages": [8, 9]
+    },
+    {
+      "question": "How can an accessory support, supplement, or augment the performance of a parent device?",
+      "expected_document": "medical_device_accessories_describing_accessories_and_classification_pathways.pdf",
+      "expected_pages": [10]
+    },
+  
+    {
+      "question": "What is the difference between Non-Device-MDDS and Device-MDDS?",
+      "expected_document": "medical_device_data_systems_medical_image_storage_devices_and_medical_image_communications_devices.pdf",
+      "expected_pages": [5, 6]
+    },
+    {
+      "question": "Which software functions qualify as Non-Device-MDDS?",
+      "expected_document": "medical_device_data_systems_medical_image_storage_devices_and_medical_image_communications_devices.pdf",
+      "expected_pages": [6, 7]
+    },
+  
+    {
+      "question": "How does FDA determine whether software running on a mobile platform is a mobile medical app?",
+      "expected_document": "policy_for_device_software_functions_and_mobile_medical_applications.pdf",
+      "expected_pages": [9, 10]
+    },
+    {
+      "question": "Which software functions are the primary focus of FDA regulatory oversight under its mobile medical application policy?",
+      "expected_document": "policy_for_device_software_functions_and_mobile_medical_applications.pdf",
+      "expected_pages": [11, 12]
+    },
+  
+    {
+      "question": "Which categories of software functions were excluded from the device definition by section 520(o)(1)(A) through (D)?",
+      "expected_document": "changes_to_existing_medical_software_policies_resulting_from_section_3060_of_the_21st_century_cures_act.pdf",
+      "expected_pages": [6, 7]
+    },
+    {
+      "question": "How does the Cures Act treat software functions used for administrative support of healthcare facilities?",
+      "expected_document": "changes_to_existing_medical_software_policies_resulting_from_section_3060_of_the_21st_century_cures_act.pdf",
+      "expected_pages": [8]
+    },
+  
+    {
+      "question": "What does FDA mean by a multiple function device product?",
+      "expected_document": "multiple_function_device_products_policy_and_considerations.pdf",
+      "expected_pages": [5, 8]
+    },
+    {
+      "question": "What is an other function in FDA's multiple function device product guidance?",
+      "expected_document": "multiple_function_device_products_policy_and_considerations.pdf",
+      "expected_pages": [8]
+    },
+  
+    {
+      "question": "What is a digital health technology for remote data acquisition in a clinical investigation?",
+      "expected_document": "digital_health_technologies_for_remote_data_acquisition_in_clinical_investigations.pdf",
+      "expected_pages": [4, 5]
+    },
+    {
+      "question": "What topics does FDA recommend considering when using digital health technologies in clinical investigations?",
+      "expected_document": "digital_health_technologies_for_remote_data_acquisition_in_clinical_investigations.pdf",
+      "expected_pages": [5, 6]
+    },
+  
+    {
+      "question": "What determines whether a device software function requires Basic or Enhanced Documentation?",
+      "expected_document": "content_of_premarket_submissions_for_device_software_functions.pdf",
+      "expected_pages": [9, 10, 12]
+    },
+    {
+      "question": "What documentation does FDA recommend for device software functions in a premarket submission?",
+      "expected_document": "content_of_premarket_submissions_for_device_software_functions.pdf",
+      "expected_pages": [10, 11, 12]
+    },
+  
+    {
+      "question": "What documentation elements does FDA recommend for off-the-shelf software used in medical devices?",
+      "expected_document": "off_the_shelf_software_use_in_medical_devices.pdf",
+      "expected_pages": [6, 7]
+    },
+    {
+      "question": "What should manufacturers document when performing risk assessment and testing of OTS software?",
+      "expected_document": "off_the_shelf_software_use_in_medical_devices.pdf",
+      "expected_pages": [9, 10]
+    },
+  
+    {
+      "question": "How does FDA define an AI-enabled device software function in its lifecycle management draft guidance?",
+      "expected_document": "artificial_intelligence_enabled_device_software_functions_lifecycle_management_and_marketing_submission_recommendations.pdf",
+      "expected_pages": [5, 6]
+    },
+    {
+      "question": "What total product lifecycle considerations does FDA describe for AI-enabled medical devices?",
+      "expected_document": "artificial_intelligence_enabled_device_software_functions_lifecycle_management_and_marketing_submission_recommendations.pdf",
+      "expected_pages": [4, 5]
+    },
+  
+    {
+      "question": "Which devices are covered by FDA's cybersecurity premarket guidance?",
+      "expected_document": "cybersecurity_in_medical_devices_quality_system_considerations_and_content_of_premarket_submissions.pdf",
+      "expected_pages": [6, 7]
+    },
+    {
+      "question": "What is a Secure Product Development Framework and why does FDA recommend it?",
+      "expected_document": "cybersecurity_in_medical_devices_quality_system_considerations_and_content_of_premarket_submissions.pdf",
+      "expected_pages": [8, 9]
+    },
+  
+    {
+      "question": "What three components make up a Predetermined Change Control Plan for an AI-enabled device software function?",
+      "expected_document": "marketing_submission_recommendations_for_a_predetermined_change_control_plan_for_artificial_intelligence_enabled_device_software_functions.pdf",
+      "expected_pages": [7, 10]
+    },
+    {
+      "question": "How can an authorized PCCP allow an AI-enabled device modification without another marketing submission?",
+      "expected_document": "marketing_submission_recommendations_for_a_predetermined_change_control_plan_for_artificial_intelligence_enabled_device_software_functions.pdf",
+      "expected_pages": [10]
+    },
+  
+    {
+      "question": "What two factors must a product meet to qualify as a low risk general wellness product?",
+      "expected_document": "general_wellness_policy_for_low_risk_devices.pdf",
+      "expected_pages": [5, 6]
+    },
+    {
+      "question": "What characteristics cause a general wellness product to fall outside FDA's low-risk policy?",
+      "expected_document": "general_wellness_policy_for_low_risk_devices.pdf",
+      "expected_pages": [8, 9]
+    },
+  
+    {
+      "question": "What four criteria must clinical decision support software meet to qualify as Non-Device CDS?",
+      "expected_document": "clinical_decision_support_software.pdf",
+      "expected_pages": [5, 6, 7]
+    },
+    {
+      "question": "What kinds of medical images, signals, or patterns cause CDS software to remain a device under Criterion 1?",
+      "expected_document": "clinical_decision_support_software.pdf",
+      "expected_pages": [7, 8]
+    }
+  ]

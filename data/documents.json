@@ -1,0 +1,170 @@
+[
+  {
+    "title": "Clinical Decision Support Software",
+    "guidance_url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/clinical-decision-support-software",
+    "pdf_url": "https://www.fda.gov/media/109618/download",
+    "local_path": "data/raw/clinical_decision_support_software.pdf",
+    "document_hash": "156bdc583aa71b6997ba327d8d97ade09fd1f76c5999a1214cdbe7c3e03d1eef",
+    "downloaded_at": "2026-09-12T12:49:29.941008+00:00"
+  },
+  {
+    "title": "General Wellness: Policy for Low Risk Devices",
+    "guidance_url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/general-wellness-policy-low-risk-devices",
+    "pdf_url": "https://www.fda.gov/media/90652/download",
+    "local_path": "data/raw/general_wellness_policy_for_low_risk_devices.pdf",
+    "document_hash": "0756013b2a64bfdc23902afad6195edc4e20d2570308845c2138c4b5c8dd2b7e",
+    "downloaded_at": "2026-09-12T12:49:30.413203+00:00"
+  },
+  {
+    "title": "Marketing Submission Recommendations for a Predetermined Change Control Plan for Artificial Intelligence-Enabled Device Software Functions",
+    "guidance_url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/marketing-submission-recommendations-predetermined-change-control-plan-artificial-intelligence",
+    "pdf_url": "https://www.fda.gov/media/166704/download",
+    "local_path": "data/raw/marketing_submission_recommendations_for_a_predetermined_change_control_plan_for_artificial_intelligence_enabled_device_software_functions.pdf",
+    "document_hash": "80f0f423efe0c8104460a9064615a2093e9a620deae013db670792c7f599e4d9",
+    "downloaded_at": "2026-09-12T12:49:30.764973+00:00"
+  },
+  {
+    "title": "Cybersecurity in Medical Devices: Quality System Considerations and Content of Premarket Submissions",
+    "guidance_url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/cybersecurity-medical-devices-quality-management-system-considerations-and-content-premarket",
+    "pdf_url": "https://www.fda.gov/media/119933/download",
+    "local_path": "data/raw/cybersecurity_in_medical_devices_quality_system_considerations_and_content_of_premarket_submissions.pdf",
+    "document_hash": "d046fa836048933e1a8795bcf2f8224bcfa08789c2f3ef6f46ae53c2eb096c54",
+    "downloaded_at": "2026-09-12T12:49:31.365924+00:00"
+  },
+  {
+    "title": "Artificial Intelligence-Enabled Device Software Functions: Lifecycle Management and Marketing Submission Recommendations",
+    "guidance_url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/artificial-intelligence-enabled-device-software-functions-lifecycle-management-and-marketing",
+    "pdf_url": "https://www.fda.gov/media/184856/download",
+    "local_path": "data/raw/artificial_intelligence_enabled_device_software_functions_lifecycle_management_and_marketing_submission_recommendations.pdf",
+    "document_hash": "62e83e0f4cbd36aed96f2f98ced597f3146f25ae66abba9849325e4e4b7520bc",
+    "downloaded_at": "2026-09-12T12:49:32.106306+00:00"
+  },
+  {
+    "title": "Off-The-Shelf Software Use in Medical Devices",
+    "guidance_url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/shelf-software-use-medical-devices",
+    "pdf_url": "https://www.fda.gov/media/71794/download",
+    "local_path": "data/raw/off_the_shelf_software_use_in_medical_devices.pdf",
+    "document_hash": "d73d361143cb06234c860b2f025367839304524780681c7d0722d25624aadbf2",
+    "downloaded_at": "2026-09-12T12:49:32.667191+00:00"
+  },
+  {
+    "title": "Content of Premarket Submissions for Device Software Functions",
+    "guidance_url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/content-premarket-submissions-device-software-functions",
+    "pdf_url": "https://www.fda.gov/media/153781/download",
+    "local_path": "data/raw/content_of_premarket_submissions_for_device_software_functions.pdf",
+    "document_hash": "dee0c15e11499682ca281120a9828180ec16710eea3d9e272cee5807050a704a",
+    "downloaded_at": "2026-09-12T12:49:33.585737+00:00"
+  },
+  {
+    "title": "Digital Health Technologies for Remote Data Acquisition in Clinical Investigations",
+    "guidance_url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/digital-health-technologies-remote-data-acquisition-clinical-investigations",
+    "pdf_url": "https://www.fda.gov/media/155022/download",
+    "local_path": "data/raw/digital_health_technologies_for_remote_data_acquisition_in_clinical_investigations.pdf",
+    "document_hash": "8beb76ed0d20be27958d1aaaf274485a2b7443b69c173d0f5cdc27f35874a174",
+    "downloaded_at": "2026-09-12T12:49:34.330943+00:00"
+  },
+  {
+    "title": "Multiple Function Device Products: Policy and Considerations",
+    "guidance_url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/multiple-function-device-products-policy-and-considerations",
+    "pdf_url": "https://www.fda.gov/media/112671/download",
+    "local_path": "data/raw/multiple_function_device_products_policy_and_considerations.pdf",
+    "document_hash": "13adc11aff7c259311fe965c5d7afcb98c764ce7cd0904a7e3fd288bdadd5702",
+    "downloaded_at": "2026-09-12T12:49:34.725722+00:00"
+  },
+  {
+    "title": "Changes to Existing Medical Software Policies Resulting from Section 3060 of the 21st Century Cures Act",
+    "guidance_url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/changes-existing-medical-software-policies-resulting-section-3060-21st-century-cures-act",
+    "pdf_url": "https://www.fda.gov/media/109622/download",
+    "local_path": "data/raw/changes_to_existing_medical_software_policies_resulting_from_section_3060_of_the_21st_century_cures_act.pdf",
+    "document_hash": "ea61794cf99b6a9dae5c675c0c9a1c0f51ce11233948ce32f39c2ec4cd3fcf54",
+    "downloaded_at": "2026-09-12T12:49:35.202954+00:00"
+  },
+  {
+    "title": "Policy for Device Software Functions and Mobile Medical Applications",
+    "guidance_url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/policy-device-software-functions-and-mobile-medical-applications",
+    "pdf_url": "https://www.fda.gov/media/80958/download",
+    "local_path": "data/raw/policy_for_device_software_functions_and_mobile_medical_applications.pdf",
+    "document_hash": "7fb21371f814ec843c208e2b98e3505a7f4f47aa845040a419af4929e95d053e",
+    "downloaded_at": "2026-09-12T12:49:35.636754+00:00"
+  },
+  {
+    "title": "Medical Device Data Systems, Medical Image Storage Devices, and Medical Image Communications Devices",
+    "guidance_url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/medical-device-data-systems-medical-image-storage-devices-and-medical-image-communications-devices",
+    "pdf_url": "https://www.fda.gov/media/88572/download",
+    "local_path": "data/raw/medical_device_data_systems_medical_image_storage_devices_and_medical_image_communications_devices.pdf",
+    "document_hash": "4ae24376bf518251460c7b57e63fdd85046abbb9ee6a3e7903155e163433f017",
+    "downloaded_at": "2026-09-12T12:49:36.376826+00:00"
+  },
+  {
+    "title": "Medical Device Accessories - Describing Accessories and Classification Pathways",
+    "guidance_url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/medical-device-accessories-describing-accessories-and-classification-pathways",
+    "pdf_url": "https://www.fda.gov/media/90647/download",
+    "local_path": "data/raw/medical_device_accessories_describing_accessories_and_classification_pathways.pdf",
+    "document_hash": "ba4ce9b4fe8638d8aa6a74e683e2fa329c02e90be98890544bf6d1289fd941c0",
+    "downloaded_at": "2026-09-12T12:49:36.734656+00:00"
+  },
+  {
+    "title": "Deciding When to Submit a 510(k) for a Software Change to an Existing Device",
+    "guidance_url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/deciding-when-submit-510k-software-change-existing-device",
+    "pdf_url": "https://www.fda.gov/media/99785/download",
+    "local_path": "data/raw/deciding_when_to_submit_a_510_k_for_a_software_change_to_an_existing_device.pdf",
+    "document_hash": "a9a26c775d273908f007677921ae10af1d7a56e5052ac200839c77a2389adc4a",
+    "downloaded_at": "2026-09-12T12:49:37.214396+00:00"
+  },
+  {
+    "title": "Design Considerations and Pre-market Submission Recommendations for Interoperable Medical Devices",
+    "guidance_url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/design-considerations-and-pre-market-submission-recommendations-interoperable-medical-devices",
+    "pdf_url": "https://www.fda.gov/media/95636/download",
+    "local_path": "data/raw/design_considerations_and_pre_market_submission_recommendations_for_interoperable_medical_devices.pdf",
+    "document_hash": "fa8ce12c4806c4e924eb6bde4bd3de148c913eb430983c73d80a85d219f7bfae",
+    "downloaded_at": "2026-09-12T12:49:37.530657+00:00"
+  },
+  {
+    "title": "Postmarket Management of Cybersecurity in Medical Devices",
+    "guidance_url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/postmarket-management-cybersecurity-medical-devices",
+    "pdf_url": "https://www.fda.gov/media/95862/download",
+    "local_path": "data/raw/postmarket_management_of_cybersecurity_in_medical_devices.pdf",
+    "document_hash": "cf373dbe12c45896df215107477f9c2034c00dc0953f6b4cb76133be573cd0c1",
+    "downloaded_at": "2026-09-12T12:49:38.119488+00:00"
+  },
+  {
+    "title": "Applying Human Factors and Usability Engineering to Medical Devices",
+    "guidance_url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/applying-human-factors-and-usability-engineering-medical-devices",
+    "pdf_url": "https://www.fda.gov/media/80481/download",
+    "local_path": "data/raw/applying_human_factors_and_usability_engineering_to_medical_devices.pdf",
+    "document_hash": "9b49b108f88e04eaa63143f9ace07b0fef878e40353b198581dfb603c24e1b20",
+    "downloaded_at": "2026-09-12T12:49:38.849279+00:00"
+  },
+  {
+    "title": "Radio Frequency Wireless Technology in Medical Devices",
+    "guidance_url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/radio-frequency-wireless-technology-medical-devices-guidance-industry-and-fda-staff",
+    "pdf_url": "https://www.fda.gov/media/71975/download",
+    "local_path": "data/raw/radio_frequency_wireless_technology_in_medical_devices.pdf",
+    "document_hash": "1ce44482ab855ae608af2ab3875a668af9cb7531b7b4b81a060b4f65944cba23",
+    "downloaded_at": "2026-09-12T12:49:39.354674+00:00"
+  },
+  {
+    "title": "Computer-Assisted Detection Devices Applied to Radiology Images and Radiology Device Data - Premarket Notification [510(k)] Submissions",
+    "guidance_url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/computer-assisted-detection-devices-applied-radiology-images-and-radiology-device-data-premarket",
+    "pdf_url": "https://www.fda.gov/media/77635/download",
+    "local_path": "data/raw/computer_assisted_detection_devices_applied_to_radiology_images_and_radiology_device_data_premarket_notification_510_k_submissions.pdf",
+    "document_hash": "aad865b17e17c3c0fe6c14c255f0996ca0e1a71f50e8bbc656c236ef6c18e0c1",
+    "downloaded_at": "2026-09-12T12:49:39.752542+00:00"
+  },
+  {
+    "title": "Clinical Performance Assessment: Considerations for Computer-Assisted Detection Devices Applied to Radiology Images and Radiology Device Data - Premarket Approval (PMA) and Premarket Notification [510(k)] Submissions",
+    "guidance_url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/clinical-performance-assessment-considerations-computer-assisted-detection-devices-applied-radiology",
+    "pdf_url": "https://www.fda.gov/media/77642/download",
+    "local_path": "data/raw/clinical_performance_assessment_considerations_for_computer_assisted_detection_devices_applied_to_radiology_images_and_radiology_device_data_premarket_approval_pma_and_premarket_notification_510_k_submissions.pdf",
+    "document_hash": "a24ffc203940f1203a6bbb10e1894ed2a006095baa38780eed269c900de78abe",
+    "downloaded_at": "2026-09-12T12:49:40.144026+00:00"
+  },
+  {
+    "title": "Guidance: Acceptable Media for Electronic Product User Manuals",
+    "guidance_url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/acceptable-media-electronic-product-user-manuals",
+    "pdf_url": "https://www.fda.gov/media/78332/download",
+    "local_path": "data/raw/guidance_acceptable_media_for_electronic_product_user_manuals.pdf",
+    "document_hash": "127c81c5ab2168c88e32d493de38be015a35e43ac67b85c4808110e6c0427ef8",
+    "downloaded_at": "2026-09-12T12:49:40.968303+00:00"
+  }
+]
